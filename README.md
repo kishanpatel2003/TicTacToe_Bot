@@ -9,10 +9,15 @@ The game board is represented using a 2D list called gameBoard. Each cell in the
 
 # Functions
 printGameBoard(): Prints the current state of the game board.
+
 modifyArray(num, turn): Modifies the game board based on the player's move.
+
 checkForWinner(gameBoard): Checks if there is a winner by checking rows, columns, and diagonals.
+
 checkIfBoardFull(gameBoard): Checks if the game board is full (no more empty positions).
+
 minimax(gameBoard, depth, maximizingPlayer): The minimax algorithm with alpha-beta pruning. Evaluates the game board positions and returns the best possible score for the current player.
+
 getBestMove(gameBoard): Determines the best move for the AI player ('O') using the minimax algorithm.
 
 # Game Loop
