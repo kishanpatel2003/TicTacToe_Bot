@@ -1,5 +1,7 @@
 # Tic Tac Toe Bot
 
+[![Python](https://img.shields.io/badge/Python-Algorithmic%20Solving-blue)](https://www.python.org)
+
 This is a Tic Tac Toe game implementation with an AI bot that uses the minimax algorithm with alpha-beta pruning to make optimal moves. The bot is designed to never lose in Tic Tac Toe. Below is a brief overview of the code structure and how the game works.
 
 # Game Board Representation
