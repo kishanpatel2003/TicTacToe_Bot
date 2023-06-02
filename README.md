@@ -7,6 +7,8 @@ Created a Tic Tac Toe game implementation with an AI bot that uses the minimax a
 # Game Board Representation
 The game board is represented using a 2D list called gameBoard. Each cell in the board holds either a number from 1 to 9 (representing an empty position) or 'X' or 'O' (representing player moves). The board is printed to the console after each move.
 
+[StartScreen.pdf]()
+
 # Functions
 printGameBoard(): Prints the current state of the game board.
 
